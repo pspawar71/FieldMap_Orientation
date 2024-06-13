@@ -1,3 +1,6 @@
+install.packages("shiny")
+install.packages("leaflet")
+install.packages("sf")
 library(shiny)
 library(leaflet)
 library(sf)

@@ -1,0 +1,8 @@
+Package: shiny
+Version: 1.6.0
+
+Package: leaflet
+Version: 2.0.4
+
+Package: sf
+Version: 1.0.0
